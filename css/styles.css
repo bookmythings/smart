@@ -70,6 +70,14 @@ h3{
   text-align: center;
   background-color: #ffd551;
 }
+#sucesses {
+  text-align: center;
+}
+
+#contact-us{
+  background-color: #fdfaf6;
+  text-align: center;
+}
 
 .p-text {
     font-size: 2.5rem;
@@ -78,6 +86,9 @@ h3{
     color: black;
 }
 
+#footer{
+  padding: 7% 5% 3%;
+}
 
 .p-img {
       width: 15%;
@@ -85,7 +96,45 @@ h3{
       padding: 2%;
 }
 .s-img{
-  width: 80%;
+  width: 60%;
+}
+
+.team-txt{
+  font-weight: normal;
+  font-family: sans-serif;
+
+}
+
+.road-img {
+  width: 100%;
+}
+
+.cmp-img {
+  width: 50%;
+}
+
+.right-p {
+  text-align: center;
+}
+
+.cnt-img {
+  width: 100%;
+}
+
+.cnt-det {
+ text-align: left;
+}
+
+.f-txt {
+  font-size: 3.5rem;
+  font-weight: 800;
+  padding: 0 2% 0;
+}
+
+
+.icon-f {
+  font-size: 3rem;
+  padding: 5% 3%;
 }
 
 /* partners Section */
